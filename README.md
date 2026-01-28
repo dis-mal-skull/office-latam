@@ -129,35 +129,14 @@ cscript "C:\Program Files\Microsoft Office\Office16\ospp.vbs" /act
 - Puede ejecutarse múltiples veces para agregar componentes
 - Los archivos se descargan de servidores **oficiales Microsoft**
 
-## 🤝 Contribuir
-
-¡Las contribuciones son bienvenidas!
-
-1. **Fork** el repositorio
-2. **Crea** una rama (`git checkout -b feature/mejora`)
-3. **Commit** tus cambios (`git commit -am 'Agregar nueva característica'`)
-4. **Push** a la rama (`git push origin feature/mejora`)
-5. **Abre** un Pull Request
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver [LICENSE](LICENSE) para más detalles.
-
 ## ☕ Donaciones
 
 ¿Te ayudó este proyecto? Considera una donación para mantenerlo actualizado:
 
 [![PayPal](https://img.shields.io/badge/PayPal-Donate-blue.svg)](https://paypal.me/sternenfrost)
 - **PayPal**: `sternenfrost@gmail.com`
-- **Bitcoin**: `1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa`
 
 Tu apoyo ayuda a mantener el proyecto activo y con actualizaciones regulares.
-
-## 📞 Contacto
-
-- **Issues**: [GitHub Issues](https://github.com/dis-mal-skull/office-latam/issues)
-- **Email**: `sternenfrost@gmail.com`
-- **Discusión**: [GitHub Discussions](https://github.com/dis-mal-skull/office-latam/discussions)
 
 ---
 
